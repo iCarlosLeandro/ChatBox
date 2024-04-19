@@ -60,6 +60,8 @@ class ChatBot:
             return f' Nosso presidente, nosso cachaceiro preferido, queria tomar uma pinga com ele, camarada, grande camarada Lula ( quer me fuder mermo ne ?)'
         elif 'economizar' in mensagem or 'juntar dinheiro' in mensagem:
             return f' Na minha opnião, isso ai tem que ser TRINCHEIRA. Tem que ser levado a sério, pois a situação que a banda toca no teu país, nao da pra saber o que vai acontecer amanha nao.'
+        elif 'ue' in mensagem:
+            return f'UE O CARALGO FILHO DA PUTA'    
         else:
             return f'Fale algo que eu entenda, seu chimpanzé filho da puta.'
     def iniciar(self):
