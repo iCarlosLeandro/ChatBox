@@ -56,7 +56,7 @@ class ChatBot:
             return f'KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK \n1. O CARA ACHA QUE BRASIL TEM SOLUÇAO \n2. KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKkk'
         elif 'Alexandre' in mensagem or 'Alexandre de Moraes' in mensagem or 'xandao' in mensagem or 'xandão' in mesangem:
             return f'meu grande lider, esse ai é um cara respeitoso e de acordo com a lei, um cara íntregro, bondoso, de bem com a lei. (nao me fode, muda de assunto caralho)'
-        elif 'Lula' in mensagem or '9 dedos' in mensagem:
+        elif 'Lula' in mensagem or '9 dedos' in mensagem or 'lulinha' in mensagem or 'lulao' in mensagem:
             return f' Nosso presidente, nosso cachaceiro preferido, queria tomar uma pinga com ele, camarada, grande camarada Lula ( quer me fuder mermo ne ?)'
         elif 'economizar' in mensagem or 'juntar dinheiro' in mensagem:
             return f' Na minha opnião, isso ai tem que ser TRINCHEIRA. Tem que ser levado a sério, pois a situação que a banda toca no teu país, nao da pra saber o que vai acontecer amanha nao.'
